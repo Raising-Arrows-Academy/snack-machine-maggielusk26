@@ -42,6 +42,9 @@ def main():
         "2": {"name": "Chocolate Bar", "price": 2.00, "emoji": "🍫"},
         "3": {"name": "Granola Bar", "price": 1.25, "emoji": "🥜"},
         "4": {"name": "Soda", "price": 1.75, "emoji": "🥤"}
+        "5": {"name": "Gummy Snakes", "price": 1.75, "emoji": "🐍"},
+        "6": {"name": "Apple Juice", "price": 1.95, "emoji": "🍎"},
+        "6": {"name": "Water", "price": 1.15, "emoji": "💧"},
     }
     
     # Process the user's choice
